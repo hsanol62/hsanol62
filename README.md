@@ -1,5 +1,7 @@
-### Hi there 👋
+### Sol Han / 한솔
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?hsanol62=username)](https://github.com/anuraghazra/github-readme-stats)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:hsanol62@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hsanol62.github.io/)
 <!--
 **hsanol62/hsanol62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
