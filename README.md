@@ -22,6 +22,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsanol62@gmail.com)](mailto:hsanol62@gmail.com)
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hsanol62.github.io/)](https://hsanol62.github.io/)
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=&fontSize=50)
+
 <!--
 **hsanol62/hsanol62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
