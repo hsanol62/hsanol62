@@ -1,8 +1,19 @@
 ### Sol Han / 한솔
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsanol62)](https://github.com/anuraghazra/github-readme-stats)<br>
+ 
+ <!-- 기술 로고
+배지 https://shields.io/
+아이콘 https://simpleicons.org/
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
+-->
+
+   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a><br>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+ 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsanol62@gmail.com)](mailto:hsanol62@gmail.com)
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hsanol62.github.io/)
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
+
 <!--
 **hsanol62/hsanol62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
