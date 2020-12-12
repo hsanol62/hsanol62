@@ -1,3 +1,6 @@
+<!--https://github.com/kyechan99/capsule-render -->
+![header](https://rect.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Sol Han / 한솔
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsanol62)](https://github.com/anuraghazra/github-readme-stats)<br>
  
@@ -6,7 +9,7 @@
 아이콘 https://simpleicons.org/
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
