@@ -20,7 +20,7 @@
  
 ![velog Badge]( https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hsanol62.velog.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsanol62@gmail.com)](mailto:hsanol62@gmail.com)
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hsanol62.github.io/)](https://hsanol62.github.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/hsanol62)](https://hsanol62.github.io/)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=e2cce7&height=50&section=header&text=&fontSize=50)
 
