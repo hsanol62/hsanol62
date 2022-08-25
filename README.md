@@ -24,10 +24,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsanol62@gmail.com)](mailto:hsanol62@gmail.com)
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&url=https%3A%2F%2Fgithub.com%2Fhsanol62)](https://hsanol62.github.io/)
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsanol62&layout=compact)](https://github.com/hsanol62/github-readme-stats)
+
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=DA79FD&height=50&section=header&text=&fontSize=50)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsanol62&layout=compact)](https://github.com/hsanol62/github-readme-stats)
 
 <!--
 **hsanol62/hsanol62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
