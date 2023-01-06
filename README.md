@@ -30,7 +30,7 @@
  
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=DA79FD&height=50&section=header&text=&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=2A52BE&height=50&section=header&text=&fontSize=50)
 
 
 <!--
