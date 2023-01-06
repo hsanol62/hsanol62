@@ -1,5 +1,5 @@
 <!--https://github.com/kyechan99/capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=2A52BE&height=80&section=header&text=Welcome&fontSize=50&fontColor=fcfce8)
+![header](https://capsule-render.vercel.app/api?type=wave&color=2A52BE&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ### Sol Han / 한솔
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsanol62)](https://github.com/anuraghazra/github-readme-stats)<br>
